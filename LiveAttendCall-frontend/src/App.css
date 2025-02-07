@@ -1,0 +1,21 @@
+/* App.css */
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  margin: top 10px;;
+  bottom: 10px;
+  left: 0;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.container {
+  padding-bottom: 50px; /* Make sure there is some space above the footer */
+}
