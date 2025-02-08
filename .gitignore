@@ -7,3 +7,4 @@ build
 LiveAttendCall-frontend/node_modules
 LiveAttendCall-backend/bin
 LiveAttendCall-backend/build
+.vscode
